@@ -1,0 +1,95 @@
+
+=== BANCO DINHEIRO CERTO ===
+1 - Conta corrente
+2 - Conta poupanca
+0 - Encerrar
+Escolha o cadastro: 
+--- CONTA CORRENTE ---
+1 - Cadastrar conta
+2 - Consultar saldo
+3 - Depositar
+4 - Sacar
+5 - Listar contas
+0 - Voltar
+Opcao: Numero da conta: Nome do titular: CPF: Telefone: Saldo inicial: Conta cadastrada com sucesso.
+
+--- CONTA CORRENTE ---
+1 - Cadastrar conta
+2 - Consultar saldo
+3 - Depositar
+4 - Sacar
+5 - Listar contas
+0 - Voltar
+Opcao: Numero da conta: Valor do deposito: Deposito realizado. Novo saldo: R$ 650.00
+
+--- CONTA CORRENTE ---
+1 - Cadastrar conta
+2 - Consultar saldo
+3 - Depositar
+4 - Sacar
+5 - Listar contas
+0 - Voltar
+Opcao: Numero da conta: Valor do saque: Saque realizado. Novo saldo: R$ 450.00
+
+--- CONTA CORRENTE ---
+1 - Cadastrar conta
+2 - Consultar saldo
+3 - Depositar
+4 - Sacar
+5 - Listar contas
+0 - Voltar
+Opcao: Numero da conta: Saldo da conta 123: R$ 450.00
+
+--- CONTA CORRENTE ---
+1 - Cadastrar conta
+2 - Consultar saldo
+3 - Depositar
+4 - Sacar
+5 - Listar contas
+0 - Voltar
+Opcao: Conta: 123 | Titular: Maria Silva | Telefone: 81999999999
+
+--- CONTA CORRENTE ---
+1 - Cadastrar conta
+2 - Consultar saldo
+3 - Depositar
+4 - Sacar
+5 - Listar contas
+0 - Voltar
+Opcao: 
+=== BANCO DINHEIRO CERTO ===
+1 - Conta corrente
+2 - Conta poupanca
+0 - Encerrar
+Escolha o cadastro: 
+--- CONTA POUPANCA ---
+1 - Cadastrar conta
+2 - Consultar saldo
+3 - Depositar
+4 - Sacar
+5 - Listar contas
+0 - Voltar
+Opcao: Numero da conta: Nome do titular: CPF: Telefone: Saldo inicial: Conta cadastrada com sucesso.
+
+--- CONTA POUPANCA ---
+1 - Cadastrar conta
+2 - Consultar saldo
+3 - Depositar
+4 - Sacar
+5 - Listar contas
+0 - Voltar
+Opcao: Conta: 456 | Titular: Joao Souza | Telefone: 81988888888
+
+--- CONTA POUPANCA ---
+1 - Cadastrar conta
+2 - Consultar saldo
+3 - Depositar
+4 - Sacar
+5 - Listar contas
+0 - Voltar
+Opcao: 
+=== BANCO DINHEIRO CERTO ===
+1 - Conta corrente
+2 - Conta poupanca
+0 - Encerrar
+Escolha o cadastro: Programa encerrado.
