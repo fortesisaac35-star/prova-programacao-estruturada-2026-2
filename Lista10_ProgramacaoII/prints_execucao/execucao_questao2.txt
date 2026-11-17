@@ -1,0 +1,72 @@
+
+=== PAPELARIA ESCOLAR ===
+1 Cadastrar produto
+2 Alterar valor
+3 Consultar valor
+4 Consultar estoque
+5 Vender
+6 Atualizar estoque
+7 Listar produtos
+8 Listar estoque zero
+0 Sair
+Opcao: Codigo: Descricao: Valor unitario: Quantidade em estoque: Produto cadastrado.
+
+=== PAPELARIA ESCOLAR ===
+1 Cadastrar produto
+2 Alterar valor
+3 Consultar valor
+4 Consultar estoque
+5 Vender
+6 Atualizar estoque
+7 Listar produtos
+8 Listar estoque zero
+0 Sair
+Opcao: Codigo: 101 | Descricao: Caderno
+
+=== PAPELARIA ESCOLAR ===
+1 Cadastrar produto
+2 Alterar valor
+3 Consultar valor
+4 Consultar estoque
+5 Vender
+6 Atualizar estoque
+7 Listar produtos
+8 Listar estoque zero
+0 Sair
+Opcao: Codigo do produto: Quantidade desejada: Venda realizada. Total a pagar: R$ 31.00
+
+=== PAPELARIA ESCOLAR ===
+1 Cadastrar produto
+2 Alterar valor
+3 Consultar valor
+4 Consultar estoque
+5 Vender
+6 Atualizar estoque
+7 Listar produtos
+8 Listar estoque zero
+0 Sair
+Opcao: Codigo do produto: Quantidade em estoque: 1
+
+=== PAPELARIA ESCOLAR ===
+1 Cadastrar produto
+2 Alterar valor
+3 Consultar valor
+4 Consultar estoque
+5 Vender
+6 Atualizar estoque
+7 Listar produtos
+8 Listar estoque zero
+0 Sair
+Opcao: Nenhum produto com estoque zero.
+
+=== PAPELARIA ESCOLAR ===
+1 Cadastrar produto
+2 Alterar valor
+3 Consultar valor
+4 Consultar estoque
+5 Vender
+6 Atualizar estoque
+7 Listar produtos
+8 Listar estoque zero
+0 Sair
+Opcao: Encerrando programa.
